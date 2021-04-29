@@ -27,3 +27,6 @@ function dividir(){
 
 
 }
+function limpiar(){
+    document.getElementById('calculadora').reset();
+}
